@@ -4,6 +4,10 @@ class User
   end
   
   def email
-    "harry@example.com"
+    "harry@yahoo.com"
+  end
+  
+  def follower_count
+    10
   end
 end
