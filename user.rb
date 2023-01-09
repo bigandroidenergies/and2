@@ -1,4 +1,7 @@
-class User
+
+
+
+dsfsdfclass User
   def name
     "Harry"
   end
